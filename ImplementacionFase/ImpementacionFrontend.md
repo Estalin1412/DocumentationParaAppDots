@@ -23,15 +23,31 @@
 - Boton Mostrar soportee
 ##### Pantalla paramostrado de datos(Datos limitados para sin paga)
 - Muchos TextView con especificaiones de Medida, valor y unidad
-- Calcular si estoy bien o mal en otro cardView
 ##### Pantalla para mostrado de gráficos(Datos limitados para sin paga)
 - ReciclerView para escogeer el gráfico de los datos
 - Seccion de gráficos
 ##### Pantalla para mostrado de cálculos(Datos limitados para sin paga)
+- CardView de Salud
+- Orina
+- Posible enfermedad
+
 ##### Pantalla para Agregar funcionalidad de comprador(Para activar funcionalidades de paga)
 #### Pantalla de nanolab
+- Boton para Datos
+- Boton para gráficos
+- Boton para cálculos
+- Boton para soporte
+- Buton para agregar dispositivo 
 ##### Pantalla para Registrar dispositivo comprado
+- Mostrar todos los dipositivos que compraste
 ##### Pantalla para mostrar Datos
+- Card View Medida, valor y unidad
+- Mostrar algun calculo
 ##### Pantalla para mostrar gráficos
+- CardView de datos
+- Seccion Para mostrar gráfico de ese dato
 ##### Pantalla para mostrar cálculos
+- Calcular y mostrar datos de salud
 ##### Pantalla para soporte
+- Pantalla para comunicarse con soporte
+- Mostra link para ver página de dots
